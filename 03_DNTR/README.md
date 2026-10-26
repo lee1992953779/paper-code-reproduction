@@ -1,5 +1,7 @@
 # DNTR（2024）
 
+**一句话简介：** 通过特征去噪与 Transformer 改善微小目标检测。
+
 **论文题目：** A DeNoising FPN With Transformer R-CNN for Tiny Object Detection
 
 **期刊：** IEEE Transactions on Geoscience and Remote Sensing，62，4704415，2024。
