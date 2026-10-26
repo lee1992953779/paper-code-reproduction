@@ -1,5 +1,7 @@
 # NWD-RKA（2022）
 
+**一句话简介：** 用 Wasserstein 距离改进航拍微小目标检测。
+
 **论文题目：** Detecting tiny objects in aerial images: A normalized Wasserstein distance and a new benchmark
 
 **期刊：** ISPRS Journal of Photogrammetry and Remote Sensing，190：79–93，2022。
