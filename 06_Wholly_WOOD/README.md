@@ -1,5 +1,7 @@
 # Wholly-WOOD（2025）
 
+**一句话简介：** 统一利用多种标注进行弱监督旋转目标检测。
+
 **论文题目：** Wholly-WOOD: Wholly Leveraging Diversified-Quality Labels for Weakly-Supervised Oriented Object Detection
 
 **期刊：** IEEE Transactions on Pattern Analysis and Machine Intelligence，47(6)：4438–4454，2025。
