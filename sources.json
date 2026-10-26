@@ -1,5 +1,6 @@
 {
   "label": "论文代码复现",
+  "description": "代码来源与版本记录：保留官方仓库、个人副本、提交版本和许可证信息。",
   "collected_on": "2026-10-26",
   "reproduction_status": "尚未开始复现实验",
   "papers": [
