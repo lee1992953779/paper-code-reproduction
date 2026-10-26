@@ -1,5 +1,7 @@
 # SWIN-TOD（2024）
 
+**一句话简介：** 聚合邻近目标特征，提升遥感小目标检测。
+
 **论文题目：** SWIN-TOD: Smooth Wasserstein Distance and Instance-Level Neighboring Enhancement for Remote Sensing Tiny Object Detection
 
 **期刊：** IEEE Transactions on Geoscience and Remote Sensing，62，5638915，2024。
