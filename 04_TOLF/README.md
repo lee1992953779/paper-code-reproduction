@@ -1,5 +1,7 @@
 # TOLF（2026）
 
+**一句话简介：** 建模定位误差，降低小目标标注噪声的影响。
+
 **论文题目：** Noise-Robust Tiny Object Localization with Flows
 
 **期刊：** Pattern Recognition，175，113041，2026。
