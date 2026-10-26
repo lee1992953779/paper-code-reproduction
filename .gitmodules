@@ -1,3 +1,4 @@
+# 代码地址与分支配置：各论文对应的个人 Fork 及默认使用分支。
 [submodule "01_NWD_RKA/code"]
 	path = 01_NWD_RKA/code
 	url = https://github.com/lee1992953779/mmdet-aitod.git
