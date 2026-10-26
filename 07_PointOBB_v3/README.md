@@ -1,5 +1,7 @@
 # PointOBB-v3（2025）
 
+**一句话简介：** 通过多视图学习单点监督的旋转目标检测。
+
 **论文题目：** PointOBB-v3: Expanding Performance Boundaries of Single Point-Supervised Oriented Object Detection
 
 **期刊：** International Journal of Computer Vision，133：6108–6128，2025。
