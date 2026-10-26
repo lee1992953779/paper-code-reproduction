@@ -1,0 +1,70 @@
+{
+  "label": "论文代码复现",
+  "collected_on": "2026-10-26",
+  "reproduction_status": "尚未开始复现实验",
+  "papers": [
+    {
+      "directory": "01_NWD_RKA",
+      "method": "NWD-RKA",
+      "upstream": "https://github.com/Chasel-Tsui/mmdet-aitod",
+      "fork": "https://github.com/lee1992953779/mmdet-aitod",
+      "branch": "main",
+      "commit": "e3e5671114905ebd1b5f3da1bca86d07901533df",
+      "license": "Apache-2.0"
+    },
+    {
+      "directory": "02_SWIN_TOD",
+      "method": "SWIN-TOD",
+      "upstream": "https://github.com/sevenwgb/SWIN-TOD",
+      "fork": "https://github.com/lee1992953779/SWIN-TOD",
+      "branch": "main",
+      "commit": "e8bc10f0a20ceae6852ac4a9753774b04f4f82e5",
+      "license": "MIT"
+    },
+    {
+      "directory": "03_DNTR",
+      "method": "DNTR",
+      "upstream": "https://github.com/hoiliu-0801/DNTR",
+      "fork": "https://github.com/lee1992953779/DNTR",
+      "branch": "main",
+      "commit": "e40fb8940b69595e17085b848953c86e78c0ff03",
+      "license": "Apache-2.0"
+    },
+    {
+      "directory": "05_Point_Teacher",
+      "method": "Point Teacher",
+      "upstream": "https://github.com/ZhuHaoranEIS/Point-Teacher",
+      "fork": "https://github.com/lee1992953779/Point-Teacher",
+      "branch": "main",
+      "commit": "7c557f2ed89751962cce19ae044ba9c95873c9a6",
+      "license": "MIT"
+    },
+    {
+      "directory": "06_Wholly_WOOD",
+      "method": "Wholly-WOOD",
+      "upstream": "https://github.com/VisionXLab/whollywood",
+      "fork": "https://github.com/lee1992953779/whollywood",
+      "branch": "main",
+      "commit": "4a77e648ee2911bbd9eaeb941f4fe7916d1d4e72",
+      "license": "Apache-2.0"
+    },
+    {
+      "directory": "07_PointOBB_v3",
+      "method": "PointOBB-v3",
+      "upstream": "https://github.com/VisionXLab/PointOBB-v3",
+      "fork": "https://github.com/lee1992953779/PointOBB-v3",
+      "branch": "two_stage",
+      "commit": "7880158ed90596f644341d516601617960760e70",
+      "license": "MIT"
+    }
+  ],
+  "unavailable": [
+    {
+      "directory": "04_TOLF",
+      "method": "TOLF",
+      "status": "未确认官方公开代码",
+      "paper": "https://arxiv.org/abs/2601.00617",
+      "author_page": "https://huixinsun.github.io/publications.html"
+    }
+  ]
+}

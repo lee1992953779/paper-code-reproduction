@@ -1,0 +1,29 @@
+[submodule "01_NWD_RKA/code"]
+	path = 01_NWD_RKA/code
+	url = https://github.com/lee1992953779/mmdet-aitod.git
+	branch = main
+
+[submodule "02_SWIN_TOD/code"]
+	path = 02_SWIN_TOD/code
+	url = https://github.com/lee1992953779/SWIN-TOD.git
+	branch = main
+
+[submodule "03_DNTR/code"]
+	path = 03_DNTR/code
+	url = https://github.com/lee1992953779/DNTR.git
+	branch = main
+
+[submodule "05_Point_Teacher/code"]
+	path = 05_Point_Teacher/code
+	url = https://github.com/lee1992953779/Point-Teacher.git
+	branch = main
+
+[submodule "06_Wholly_WOOD/code"]
+	path = 06_Wholly_WOOD/code
+	url = https://github.com/lee1992953779/whollywood.git
+	branch = main
+
+[submodule "07_PointOBB_v3/code"]
+	path = 07_PointOBB_v3/code
+	url = https://github.com/lee1992953779/PointOBB-v3.git
+	branch = two_stage
