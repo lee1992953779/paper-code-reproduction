@@ -1,5 +1,7 @@
 # Point Teacher（2025）
 
+**一句话简介：** 使用单点标注与教师学生网络检测微小目标。
+
 **论文题目：** Tiny Object Detection with Single Point Supervision
 
 **期刊：** ISPRS Journal of Photogrammetry and Remote Sensing，227：219–233，2025。
